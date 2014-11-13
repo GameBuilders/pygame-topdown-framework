@@ -8,17 +8,17 @@ The goal is to provide the Gamebuildathon participants a basis with which to sta
 Already implemented
 ===================
 
-Menu
-Movement - manual
-OOP - Classes and functions
-Player and enemy classes
+ * Menu
+ * Movement - manual
+ * OOP - Classes and functions
+ * Player and enemy classes
 
 To be implemented
 =================
 
-Sprites (images)
-Movement - automated
-Collisions
-Score
-Background music
-Background image
+ * Sprites (images)
+ * Movement - automated
+ * Collisions
+ * Score
+ * Background music
+ * Background image
