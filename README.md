@@ -5,23 +5,18 @@ Framework provided for the Fall 2014 Gamebuildathon
 
 The goal is to provide the Gamebuildathon participants a basis with which to start their games. This framework implements many simple game features and mechanics that they may or may not decide to use.
 
-Already implemented
--------------------
-
- * Menu
- * Movement - manual
- * OOP - Classes and functions
- * Player and enemy classes
-
-To be implemented
+Features provided
 -----------------
 
- * Sprites (images)
- * Movement - automated
- * Collisions
+ * Selection menu
+ * Input-controlled movement
+ * Automated movement
+ * Object oriented organization - player and enemy classes (extends Sprite)
+ * Function-based control flow
+ * Use of images
+ * Collision detection
+ * Display text
  * Score
- * Background music
- * Background image
 
 Usage
 -----
